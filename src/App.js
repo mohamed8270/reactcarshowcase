@@ -3,11 +3,14 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App bg bg-purple-700">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+ Abinaya
         <p>
           Edit <code>src/App.js</code> and hello save to reload.
+        <p className='text-[40px] text-[#242424] font-extralight'>
+          Edit <code>src/App.js</code> and save to reload main
         </p>
         <a
           className="App-link"
