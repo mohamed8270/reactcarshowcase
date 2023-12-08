@@ -1,8 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import Scroll from './Components/Scroll';
 
 function App() {
   return (
+    <div>
+      <Scroll/>
     <div className="App bg bg-purple-700">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
