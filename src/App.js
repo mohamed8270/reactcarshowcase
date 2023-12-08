@@ -1,10 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
+import Bodysection from './Components/Bodysection';
 import Scroll from './Components/Scroll';
 
 function App() {
   return (
     <div>
+
+      <Bodysection/>
       <Scroll/>
     <div className="App bg bg-purple-700">
       <header className="App-header">
@@ -24,6 +27,7 @@ function App() {
           Learn React
         </a>
       </header>
+
     </div>
   );
 }
