@@ -5,12 +5,16 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Hero from './Car_App/Hero';
 import NavBar from './Car_App/NavBar';
+import Scroll from './Components/Scroll';
+import Footer from './Components/Footer';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <NavBar/>
     <Hero/>
+    <Scroll/>
+    <Footer/>
   </React.StrictMode>
 );
 
