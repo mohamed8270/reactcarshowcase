@@ -1,11 +1,13 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Bodysection from './Components/Bodysection';
 import Scroll from './Components/Scroll';
 
+
 function App() {
   return (
     <div>
+
 
       <Bodysection/>
       <Scroll/>
@@ -27,7 +29,6 @@ function App() {
           Learn React
         </a>
       </header>
-
     </div>
   );
 }
