@@ -9,7 +9,7 @@ const Scroll = () => {
 
         {/* imagediv */}
 
-        <div className='flex mt-[60px]'>
+        <div className='flex mt-[50px]'>
 
 
         <div className='w-[330px] p-3'>
