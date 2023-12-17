@@ -14,7 +14,7 @@ const Hero = () => {
                     </div>
 
                     <div className=' flex-1 '>
-                        <img src='https://www.hdwallpapers.in/download/bmw_i7_xdrive60_excellence_the_first_edition_2022_4k_hd_cars-HD.jpg' />
+                        <img src='https://www.hdwallpapers.in/thumbs/2022/bmw_i7_xdrive60_excellence_the_first_edition_2022_4k_hd_cars-t2.jpg' className='h-[500px] w-[700px]' />
                     </div>
 
                     </div>
